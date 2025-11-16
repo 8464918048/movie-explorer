@@ -1,0 +1,3 @@
+# movie-explorer
+
+Starter project.
